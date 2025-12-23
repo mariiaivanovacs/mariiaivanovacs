@@ -18,6 +18,12 @@ Project	Tech / Focus	What it is
     REST API, routing logic	A navigation system that returns optimized walking routes across a university campus.
 - Side Projects
     Image detection, video generation, trading models, UI/UX	A bunch of small prototypes: from image/video ML experiments to exploring financial-market models and product design.
+
+## Recent Achievements
+ - Google Data Analytics Professional Certificate (Coursera)
+ - WorldQuant Hackathon — Ranked 10th out of 300 participants for developing predictive financial alphas in university competition.
+ - RedHat Academy — Red Hat System Administration I (RH124)
+   
 ## 🛠️ Toolbox (high level)
 
 Python • Django/DRF • WebSockets • Redis • REST APIs • basic DevOps • prototyping • UI/UX exploration
@@ -47,6 +53,9 @@ Contact: mariiaivanovacs on GitHub — or drop an email on my profile.
 
 
 ###
+
+
+
 
 
 
