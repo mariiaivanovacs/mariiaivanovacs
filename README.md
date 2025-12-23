@@ -57,8 +57,8 @@ Contact: mariiaivanovacs on GitHub — or drop an email on my profile.
 
 # About me 
  - I live in Kuala Lumpur, Malaysia
+ - Study in APU
  - Can reach me via [LinkedIn](www.linkedin.com/in/mariiaivanovacs) or email: fteammasha@gmail.com
- - Passionate about Gym and Music as a hobby :)
 
 
 
