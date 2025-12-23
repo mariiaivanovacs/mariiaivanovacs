@@ -2,6 +2,7 @@
 
 I’m Mariia Ivanova (not a typo) — mariiaivanovacs.
 Computer Science student. I’m curious, open-minded, and I try a lot of different things — I learn fast and enjoy turning ideas into working projects.
+Currently open to any projects and ideas and hope to build meaningful product one day!
 
 ## 🔎 What I do
 
