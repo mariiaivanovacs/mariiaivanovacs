@@ -23,6 +23,7 @@ Project	Tech / Focus	What it is
  - Google Data Analytics Professional Certificate (Coursera)
  - WorldQuant Hackathon — Ranked 10th out of 300 participants for developing predictive financial alphas in university competition.
  - RedHat Academy — Red Hat System Administration I (RH124)
+ - Participated in Deriv AI Hackathon (Kuala Lumpur): developer HR self-serving system
    
 ## 🛠️ Toolbox (high level)
 
