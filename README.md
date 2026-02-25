@@ -1,39 +1,73 @@
- ## Hi there, I'm Maria 
+# Hi — I’m Mariia Ivanova (mariiaivanovacs)
 
-I’m Mariia Ivanova — mariiaivanovacs.
-Computer Science student. I’m curious, open-minded, and I try a lot of different things — I learn fast and enjoy turning ideas into working projects.
-Currently open to any projects and ideas and hope to build meaningful product one day!
+Computer Science student at APU • Kuala Lumpur 🇲🇾
+Curious, open-minded, and fast at turning ideas into working prototypes.
+
+**Looking for:** a company or startup with a clear vision to improve people’s lives — I want to build something cool and helpful and see real results.
+**Availability:** **4–5 hours/day (part-time)**
+
+---
 
 ## 🔎 What I do
 
-Quick learner — I pick up new tools and languages fast and apply them in real projects.
+* **Quick learner:** pick up new tools & languages fast and apply them in real projects.
+* **Hands-on tinkerer:** backend systems, ML prototypes, product prototypes and UX.
+* **Comfort zone:** Python, Django/DRF, WebSockets, Redis, REST APIs, React, Supabase, basic DevOps, prototyping, UI/UX.
 
-Hands-on tinkerer — I experiment across backend systems, ML, product prototypes and UI/UX.
+---
 
-## 🚀 Most interesting projects
-Project	Tech / Focus	What it is
-- StudyBuddy
-    Django, WebSockets, Redis	A platform for students to study together in real time — chat, collaboration and shared resources.
-- Campus Navigator
-    REST API, routing logic	A navigation system that returns optimized walking routes across a university campus.
-- Side Projects
-    Image detection, video generation, trading models, UI/UX	A bunch of small prototypes: from image/video ML experiments to exploring financial-market models and product design.
+## 🚀 Projects — *Did / Achieved / Helped (numbers when available)*
 
-## Recent Achievements
- - Google Data Analytics Professional Certificate (Coursera)
- - WorldQuant Hackathon — Ranked 10th out of 300 participants for developing predictive financial alphas in university competition.
- - RedHat Academy — Red Hat System Administration I (RH124)
- - Participated in Deriv AI Hackathon (Kuala Lumpur): developer HR self-serving system
-   
+### StudyBuddy — teammate finder & group formation (university)
+
+* **Did:** Built a real-time platform for students to find teammates and form groups for university assignments (chat, collaboration, shared resources).
+* **Achieved:** Grew to **~50 users** during the pilot.
+* **Helped / Outcome:** Enabled fast group formation for coursework; **business model failed**, so I delegated the project for future revival and took away a big lesson about startups and product–market fit.
+
+### Campus Navigator — interactive campus routing
+
+* **Did:** Developed routing software and integrated **26 images** into an interactive travel experience across **2 floors** of the campus map.
+* **Achieved:** Parsed / pitched this project to the university **Innovation Hub**.
+* **Helped / Outcome:** Validated an indoor navigation prototype; learned how to work in a professional team and follow client requests.
+
+### Deriv AI Hackathon — Self-serving HR system (48 hours)
+
+* **Did:** In a 48-hour sprint, developed a self-serving HR system where managers can quickly review and approve — an automated, customizable flow.
+* **Tech:** React, Supabase, agent orchestration, API calls to Gemini, and RAG reasoning.
+* **Achieved:** Delivered a **working system** and reached the **final round**.
+* **Helped / Outcome:** Learned how to choose complementary teammates and saw that industry judges innovative problem-solving above polished perfection.
+
+### Side projects & ML tinkering
+
+* Short, iterative prototypes: image detection, video-generation experiments, trading-model prototypes, UI/UX explorations — useful experiments to validate new ideas quickly.
+
+---
+
+## 📌 Current
+
+* **Part-time — Research Consultant (Trading Company)** — *in progress*
+  Goal: develop a sustainable model for different markets (research + prototyping).
+
+---
+
+## 🏆 Recent achievements
+
+* Google Data Analytics Professional Certificate (Coursera)
+* WorldQuant Hackathon — **10ᵗʰ / 300** (predictive financial alphas)
+* Red Hat Academy — Red Hat System Administration I (RH124)
+* Participant — Deriv AI Hackathon (Kuala Lumpur): delivered HR self-serving system
+
+---
+
 ## 🛠️ Toolbox (high level)
 
-Python • Django/DRF • WebSockets • Redis • REST APIs • basic DevOps • prototyping • UI/UX exploration
+Python • Django / DRF • WebSockets • Redis • REST APIs • React • Supabase • basic DevOps • prototyping • UI/UX • Jupyter • NumPy • MySQL / SQLite
+
+---
 
 ## 🤝 Want to collaborate?
 
-I enjoy projects where I can build useful backends, prototype ML ideas, or help shape product UX. Open to small collaborations, contributions, and learning opportunities.
-
-Contact: mariiaivanovacs on GitHub — or drop an email on my profile.
+I enjoy building useful backends, prototyping ML ideas, and shaping product UX. Open to small collaborations or part-time roles where I can contribute **4–5 hours/day**.
 
 ###
 
@@ -55,14 +89,10 @@ Contact: mariiaivanovacs on GitHub — or drop an email on my profile.
 
 ###
 
+**Contact:**
 
-# About me 
- - I live in Kuala Lumpur, Malaysia
- - Study in APU
- - Can reach me via [LinkedIn](www.linkedin.com/in/mariiaivanovacs) or email: fteammasha@gmail.com
-
-
-
-
+* GitHub: `mariiaivanovacs`
+* LinkedIn: [https://www.linkedin.com/in/mariiaivanovacs](https://www.linkedin.com/in/mariiaivanovacs)
+* Email: [fteammasha@gmail.com](mailto:fteammasha@gmail.com)
 
 
