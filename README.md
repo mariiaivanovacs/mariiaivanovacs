@@ -4,7 +4,7 @@ Computer Science student at APU • Kuala Lumpur 🇲🇾
 Curious, open-minded, and fast at turning ideas into working prototypes.
 
 **Looking for:** a company or startup with a clear vision to improve people’s lives — I want to build something cool and helpful and see real results.
-**Availability:** **4–5 hours/day (part-time)**
+
 
 ---
 
