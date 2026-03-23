@@ -16,7 +16,7 @@ Curious, open-minded, and fast at turning ideas into working prototypes.
 
 ---
 
-## 🚀 Projects — *Did / Achieved / Helped (numbers when available)*
+## 🚀 Projects — Did / Achieved / Helped
 
 ### StudyBuddy — teammate finder & group formation (university)
 
