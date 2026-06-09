@@ -1,98 +1,73 @@
 # Hi — I’m Mariia Ivanova (mariiaivanovacs)
 
-Computer Science student at APU • Kuala Lumpur 🇲🇾
-Curious, open-minded, and fast at turning ideas into working prototypes.
+AI Engineer & Python Developer. 
+Curious builder and fast learner. I enjoy turning ideas into working prototypes and building tools that actually solve human problems. 
 
-**Looking for:** a company or startup with a clear vision to improve people’s lives — I want to build something cool and helpful and see real results.
-
-
----
-
-## 🔎 What I do
-
-* **Quick learner:** pick up new tools & languages fast and apply them in real projects.
-* **Hands-on tinkerer:** backend systems, ML prototypes, product prototypes and UX.
-* **Comfort zone:** Python, Django/DRF, WebSockets, Redis, REST APIs, React, Supabase, basic DevOps, prototyping, UI/UX.
+**Looking for:** Teams, startups, or clients with a clear vision. I want to build useful things, see real results, and learn from the process.
 
 ---
 
-## 🚀 Projects — Did / Achieved / Helped
+## 🛠️ What I Build & How I Can Help
 
-### StudyBuddy — teammate finder & group formation (university)
+I work across the full stack, with a strong focus on async Python, intelligent bots, and AI integrations. Here is a practical look at what I can help you build:
 
-* **Did:** Built a real-time platform for students to find teammates and form groups for university assignments (chat, collaboration, shared resources).
-* **Achieved:** Grew to **~50 users** during the pilot.
-* **Helped / Outcome:** Enabled fast group formation for coursework; **business model failed**, so I delegated the project for future revival and took away a big lesson about startups and product–market fit.
+**🤖 Bots & Automation**
+*   **Telegram & MAX Bots:** Production-grade bots using `aiogram 3`, `Telethon`, and `max-botapi`. Handling FSM flows, inline keyboards, callback routing, and long-polling deployment.
+*   **Background Jobs:** Celery workers, Redis brokers, APScheduler tasks, and periodic database/sheet syncs.
+*   **Data & Sheets:** Google Sheets API (`gspread`), Excel automation (`openpyxl`), and DB ↔ Sheets synchronization.
 
-### Campus Navigator — interactive campus routing
+**⚙️ Backend & Architecture**
+*   **Async Python:** FastAPI, Django, Flask, and structured service-layer architectures.
+*   **Databases:** PostgreSQL (`asyncpg`), SQLAlchemy 2.0 async ORM, Alembic migrations, and SQLite.
+*   **Business Logic:** Custom financial reporting, payment flows (Stripe, YooKassa), subscription management, and receipt generation.
 
-* **Did:** Developed routing software and integrated **26 images** into an interactive travel experience across **2 floors** of the campus map.
-* **Achieved:** Parsed / pitched this project to the university **Innovation Hub**.
-* **Helped / Outcome:** Validated an indoor navigation prototype; learned how to work in a professional team and follow client requests.
+**🧠 AI & Agents**
+*   **LLM Integration:** OpenAI, Gemini, and Anthropic APIs. 
+*   **Agentic Workflows:** LangChain, LangGraph, Google ADK agents, and LlamaIndex.
+*   **RAG & Search:** Vector search with FAISS, embeddings workflows, and AI-powered FAQ/customer support assistants.
 
-### Deriv AI Hackathon — Self-serving HR system (48 hours)
+**🎨 Frontend & Visuals**
+*   **Web Apps:** React, TypeScript, Vite, React Router, and Tailwind CSS.
+*   **Visuals & UX:** Polished landing pages, React dashboards, Three.js / React Three Fiber, Framer Motion, and responsive design.
 
-* **Did:** In a 48-hour sprint, developed a self-serving HR system where managers can quickly review and approve — an automated, customizable flow.
-* **Tech:** React, Supabase, agent orchestration, API calls to Gemini, and RAG reasoning.
-* **Achieved:** Delivered a **working system** and reached the **final round**.
-* **Helped / Outcome:** Learned how to choose complementary teammates and saw that industry judges innovative problem-solving above polished perfection.
-
-### Side projects & ML tinkering
-
-* Short, iterative prototypes: image detection, video-generation experiments, trading-model prototypes, UI/UX explorations — useful experiments to validate new ideas quickly.
-
----
-
-## 📌 Current
-
-* **Part-time — Research Consultant (Trading Company)** — *in progress*
-  Goal: develop a sustainable model for different markets (research + prototyping).
+**☁️ DevOps & Deployment**
+*   **Containerization:** Docker, Docker Compose, and environment-based configuration.
+*   **Cloud & Infra:** Google Cloud Run, Nginx static serving, health checks, and Git/GitHub workflows.
+*   **Testing:** `pytest`, `pytest-asyncio`, integration tests for bot flows, and regression testing.
 
 ---
 
-## 🏆 Recent achievements
+## 🏃‍♀️ Hackathons & Availability
 
-* Google Data Analytics Professional Certificate (Coursera)
-* WorldQuant Hackathon — **10ᵗʰ / 300** (predictive financial alphas)
-* Red Hat Academy — Red Hat System Administration I (RH124)
-* Participant — Deriv AI Hackathon (Kuala Lumpur): delivered HR self-serving system
+*   **Hackathons:** I participate in a hackathon every 3-4 weeks to push my limits and test new tech. If you're looking for a teammate for your next sprint, **DM me!**
+*   **Available for Projects:** I take on freelance and contract work. If you need help deploying an app, restructuring a backend, integrating AI, or designing a frontend, I’m here to help.
 
 ---
 
-## 🛠️ Toolbox (high level)
-
-Python • Django / DRF • WebSockets • Redis • REST APIs • React • Supabase • basic DevOps • prototyping • UI/UX • Jupyter • NumPy • MySQL / SQLite
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="35" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" width="35" alt="fastapi"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" width="35" alt="django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="35" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="35" alt="typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" width="35" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" width="35" alt="redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" width="35" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" width="35" alt="gcp"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" height="35" width="35" alt="telegram"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" width="35" alt="tailwind"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35" width="35" alt="vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" width="35" alt="numpy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="35" alt="git"/>
+</p>
 
 ---
 
-## 🤝 Want to collaborate?
+## 🤝 Let's Connect
 
-I enjoy building useful backends, prototyping ML ideas, and shaping product UX. Open to small collaborations or part-time roles where I can contribute **4–5 hours/day**.
+Whether you want to talk about AI architecture, need help shipping a project, or just want to team up for the next hackathon, my inbox is open.
 
-###
-
-<p align=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="30" alt="django"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="30" alt="jupyter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="30" alt="numpy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="30" alt="redis"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" width="30" alt="jira"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30" alt="github"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" alt="css3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="30" alt="linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" alt="mysql"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" width="30" alt="notion"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" width="30" alt="sqlite"/></p>
-
-
-###
-
-**Contact:**
-
-* GitHub: `mariiaivanovacs`
-* LinkedIn: [https://www.linkedin.com/in/mariiaivanovacs](https://www.linkedin.com/in/mariiaivanovacs)
-* Email: [fteammasha@gmail.com](mailto:fteammasha@gmail.com)
-
-
+*   💻 **GitHub:** [mariiaivanovacs](https://github.com/mariiaivanovacs)
+*   ✈️ **Telegram:** [@maria0van](https://t.me/maria0van)
+*   💼 **LinkedIn:** [linkedin.com/in/mariiaivanovacs](https://www.linkedin.com/in/mariiaivanovacs)
+*   ✉️ **Email:** [fteammasha@gmail.com](mailto:fteammasha@gmail.com)
