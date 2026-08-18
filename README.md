@@ -1,46 +1,58 @@
-# Hi — I’m Mariia Ivanova (mariiaivanovacs)
+# Hi — I'm Mariia Ivanova (mariiaivanovacs)
 
-AI Engineer & Python Developer. 
-Curious builder and fast learner. I enjoy turning ideas into working prototypes and building tools that actually solve human problems. 
+AI Engineer & Python Backend Developer.
+I build agentic and LLM-integrated systems, and the backend infrastructure that carries them into production.
 
-**Looking for:** Teams, startups, or clients with a clear vision. I want to build useful things, see real results, and learn from the process.
+Currently: **AI Developer at Geco Asia** (Malaysia) and **Backend Python Developer at Acrelis** (Russia), studying Computer Science (AI) at Asia Pacific University, Kuala Lumpur.
+
+🏆 Best Paper Award at **ICDTSA-2026** for "Autonomous Decision-Making in Smart Farming: A Layered Agentic Architecture for Real-Time Plant Stress Management."
 
 ---
 
-## 🛠️ What I Build & How I Can Help
+## 🛠️ What I Build
 
-I work across the full stack, with a strong focus on async Python, intelligent bots, and AI integrations. Here is a practical look at what I can help you build:
-
-**🤖 Bots & Automation**
-*   **Telegram & MAX Bots:** Production-grade bots using `aiogram 3`, `Telethon`, and `max-botapi`. Handling FSM flows, inline keyboards, callback routing, and long-polling deployment.
-*   **Background Jobs:** Celery workers, Redis brokers, APScheduler tasks, and periodic database/sheet syncs.
-*   **Data & Sheets:** Google Sheets API (`gspread`), Excel automation (`openpyxl`), and DB ↔ Sheets synchronization.
+**🧠 AI & Agentic Systems**
+*   **Multi-agent pipelines:** Planner → Generator → Critic → Simulator → Evaluator flows with human-in-the-loop approval, built on `LangGraph`, `Google ADK`, and `LangChain`.
+*   **Retrieval:** RAG and GraphRAG over `Neo4j` graphs, vector stores (`ChromaDB`, `Supabase`, `FAISS`), and `LlamaIndex`.
+*   **MCP:** Servers that feed context from AI coding sessions back into developer tools (Cursor, Claude Code, Codex, VS Code).
+*   **LLM Integration:** OpenAI, Gemini, and Anthropic APIs, with structured outputs and evaluation workflows.
 
 **⚙️ Backend & Architecture**
-*   **Async Python:** FastAPI, Django, Flask, and structured service-layer architectures.
-*   **Databases:** PostgreSQL (`asyncpg`), SQLAlchemy 2.0 async ORM, Alembic migrations, and SQLite.
-*   **Business Logic:** Custom financial reporting, payment flows (Stripe, YooKassa), subscription management, and receipt generation.
+*   **Async Python:** FastAPI, Django REST Framework, Flask, and async SQLAlchemy 2.0 over PostgreSQL.
+*   **Data layer:** `asyncpg`, Alembic migrations, Redis (cache / pub-sub / rate limiting), SQLite, Firestore, BigQuery.
+*   **Auth & policy:** JWT / OAuth2 / Firebase Auth, RBAC, fail-closed policy engines for AI-executed actions.
 
-**🧠 AI & Agents**
-*   **LLM Integration:** OpenAI, Gemini, and Anthropic APIs. 
-*   **Agentic Workflows:** LangChain, LangGraph, Google ADK agents, and LlamaIndex.
-*   **RAG & Search:** Vector search with FAISS, embeddings workflows, and AI-powered FAQ/customer support assistants.
+**🤖 Bots & Automation**
+*   **Telegram & MAX:** Production bots on `aiogram 3`, `Telethon` (userbot), and `maxapi`. FSM flows, admin panels, polling and webhook deployments.
+*   **Payments:** YooKassa, Prodamus, Stripe integrations for subscriptions and checkout.
+*   **Data & Sheets:** Google Sheets (`gspread`), Excel (`openpyxl`), scheduled sync jobs with `APScheduler` / `Celery`.
 
-**🎨 Frontend & Visuals**
-*   **Web Apps:** React, TypeScript, Vite, React Router, and Tailwind CSS.
-*   **Visuals & UX:** Polished landing pages, React dashboards, Three.js / React Three Fiber, Framer Motion, and responsive design.
+**☁️ DevOps & Quality**
+*   **Containerization:** Docker, Docker Compose, reproducible local/VPS/Cloud Run deployments.
+*   **Cloud & Infra:** GCP Cloud Run, Linux VPS, Nginx, GitHub Actions, GitLab CI, Sentry.
+*   **Testing:** `pytest`, `pytest-asyncio`, Playwright end-to-end tests, load testing, SBOM & CI evidence packaging.
 
-**☁️ DevOps & Deployment**
-*   **Containerization:** Docker, Docker Compose, and environment-based configuration.
-*   **Cloud & Infra:** Google Cloud Run, Nginx static serving, health checks, and Git/GitHub workflows.
-*   **Testing:** `pytest`, `pytest-asyncio`, integration tests for bot flows, and regression testing.
+**🎨 Frontend**
+*   React, TypeScript, Next.js, Tailwind CSS, Flutter Web, Kotlin / Jetpack Compose (Android).
 
 ---
 
-## 🏃‍♀️ Hackathons & Availability
+## 🚀 Featured Projects
 
-*   **Hackathons:** I participate in a hackathon every 3-4 weeks to push my limits and test new tech. If you're looking for a teammate for your next sprint, **DM me!**
-*   **Available for Projects:** I take on freelance and contract work. If you need help deploying an app, restructuring a backend, integrating AI, or designing a frontend, I’m here to help.
+*   **[PandaBear](https://github.com/mariiaivanovacs/TeamPandaBear)** — a shared memory layer that captures AI coding sessions across Cursor, Claude Code, Codex and VS Code into a Neo4j knowledge graph, and feeds context back through an MCP server. Grew into a policy-gated AI operations layer for business systems.
+*   **[EcoLink NeuroCore](https://github.com/mariiaivanovacs/Agentic_system)** — project-aware agentic system indexing real codebases into Neo4j, retrieving grounded context with GraphRAG, and proposing/sandbox-testing workflow changes through a five-stage agent pipeline.
+*   **Cyberphysiological Sports Simulator** — architecture and FastAPI backend for a GPS/QR route-based competition platform: exercise verification, LLM-evaluated tasks, scoring, anti-fraud, and audit.
+*   **PlantLabSimulation** — full-stack plant-health platform with Gemini Vision analysis, XGBoost stress prediction, and MQTT sensor integration; the agentic architecture behind it became the ICDTSA-2026 award paper.
+*   **[FaqSmartBuddy](https://github.com/mariiaivanovacs/ADK_agents)** — multi-agent Google ADK service: a Firestore-backed support assistant plus a repo-analysis agent with hybrid static/web verification.
+
+---
+
+## 🏃‍♀️ Conferences & Hackathons
+
+*   **ICDTSA-2026** — Best Paper Award, presented paper on layered agentic architectures for smart farming.
+*   **Agentic Week + Hackathon, Vietnam** (July 2026) — participant.
+*   **WorldQuant Hackathon** — Top 3% (10th of 300 teams).
+*   **Deriv AI Hackathon** — Finalist (Top 15%).
 
 ---
 
@@ -52,11 +64,12 @@ I work across the full stack, with a strong focus on async Python, intelligent b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="35" alt="typescript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" width="35" alt="postgresql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" width="35" alt="redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="35" width="35" alt="neo4j"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" width="35" alt="docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" width="35" alt="gcp"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" height="35" width="35" alt="telegram"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" width="35" alt="tailwind"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35" width="35" alt="vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" width="35" alt="nextjs"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" width="35" alt="numpy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="35" alt="git"/>
 </p>
@@ -64,8 +77,6 @@ I work across the full stack, with a strong focus on async Python, intelligent b
 ---
 
 ## 🤝 Let's Connect
-
-Whether you want to talk about AI architecture, need help shipping a project, or just want to team up for the next hackathon, my inbox is open.
 
 *   💻 **GitHub:** [mariiaivanovacs](https://github.com/mariiaivanovacs)
 *   ✈️ **Telegram:** [@maria0van](https://t.me/maria0van)
