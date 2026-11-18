@@ -3,8 +3,6 @@
 AI Engineer & Python Backend Developer.
 I build agentic and LLM-integrated systems, and the backend infrastructure that carries them into production.
 
-Currently: **AI Developer at Geco Asia** (Malaysia) and **Backend Python Developer at Acrelis** (Russia), studying Computer Science (AI) at Asia Pacific University, Kuala Lumpur.
-
 🏆 Best Paper Award at **ICDTSA-2026** for "Autonomous Decision-Making in Smart Farming: A Layered Agentic Architecture for Real-Time Plant Stress Management."
 
 ---
